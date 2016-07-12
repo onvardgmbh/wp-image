@@ -1,0 +1,18 @@
+{
+  "name": "onvardgmbh/wp-image",
+  "version": "1.0.0-rc1",
+  "description": "WordPress Image helper class",
+  "keywords": [
+    "wordpress",
+    "image"
+  ],
+  "license": "proprietary",
+  "homepage": "https://github.com/onvardgmbh/wp-image",
+  "authors": [
+    {
+      "name": "Galdor Takacs",
+      "homepage": "https://github.com/ght",
+      "role": "Developer"
+    }
+  ]
+}
