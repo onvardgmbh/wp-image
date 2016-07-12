@@ -1,12 +1,12 @@
 {
   "name": "onvardgmbh/wp-image",
-  "version": "1.0.0-rc1",
+  "version": "1.0.0",
   "description": "WordPress Image helper class",
   "keywords": [
     "wordpress",
     "image"
   ],
-  "license": "proprietary",
+  "license": "MIT",
   "homepage": "https://github.com/onvardgmbh/wp-image",
   "authors": [
     {
