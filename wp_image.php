@@ -47,13 +47,6 @@ class WpImage {
 		return get_permalink( $this->image->ID );
 	}
 
-	public function src() {
-		if ( $this->image === null ) {
-			return '';
-		}
-		return $this->image->guid;
-	}
-
 	public function title() {
 		if ( $this->image === null ) {
 			return '';
