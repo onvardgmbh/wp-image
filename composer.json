@@ -14,5 +14,10 @@
       "homepage": "https://github.com/ght",
       "role": "Developer"
     }
-  ]
+  ],
+  "autoload": {
+    "psr-4": {
+      "Onvardgmbh\\": "/"
+    }
+  }
 }
