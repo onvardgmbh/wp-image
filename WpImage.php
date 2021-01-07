@@ -16,7 +16,7 @@ class WpImage {
 		if ( $this->image === null ) {
 			return '';
 		}
-		return wp_get_attachment_image_src( $this->image->ID, $size, false )[0];
+		return wp_get_attachment_image_src( $this->image->ID, $size, false )[0] ?? '';
 	}
 
 	public function alt() {
